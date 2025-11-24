@@ -1,1 +1,91 @@
+========== INVOICE ==========
+Transaksi ID : 4dd6bfdc-9e18-4689-b634-39a036a0a023
+Customer     : dim
+Waktu        : 2025-11-23 17:26:37
+
+ID        Nama Barang                  Harga    Qty      Subtotal
+-----------------------------------------------------------------
+1         Iphone                  1000000,00      1    1000000,00
+-----------------------------------------------------------------
+TOTAL:                                             1000000,00
+
+Metode Pembayaran: QRIS - ID: QRIS3AC9A94C
+Status Pemesanan : Approved
+=============================
+
+========== INVOICE ==========
+Transaksi ID : ed0f4e04-7f6e-4047-8712-f87561906654
+Customer     : dom
+Waktu        : 2025-11-23 17:32:11
+
+ID        Nama Barang                  Harga    Qty      Subtotal
+-----------------------------------------------------------------
+1         Iphone                  1000000,00      1    1000000,00
+-----------------------------------------------------------------
+TOTAL:                                             1000000,00
+
+Metode Pembayaran: QRIS - ID: QRIS9CFE7DF4
+Status Pemesanan : Approved
+=============================
+
+========== INVOICE ==========
+Transaksi ID : b51d092c-4222-4c87-814c-e85ea187483a
+Customer     : dom
+Waktu        : 2025-11-23 17:36:16
+
+ID        Nama Barang                  Harga    Qty      Subtotal
+-----------------------------------------------------------------
+1         Iphone                  1000000,00      1    1000000,00
+-----------------------------------------------------------------
+TOTAL:                                             1000000,00
+
+Metode Pembayaran: QRIS - ID: QRIS7751E512
+Status Pemesanan : Approved
+=============================
+
+========== INVOICE ==========
+Transaksi ID : 59d25635-546b-4fa2-bea0-c9a390c67899
+Customer     : dom
+Waktu        : 2025-11-23 18:13:26
+
+ID        Nama Barang                  Harga    Qty      Subtotal
+-----------------------------------------------------------------
+1         Iphone                  1000000,00      1    1000000,00
+-----------------------------------------------------------------
+TOTAL:                                             1000000,00
+
+Metode Pembayaran: QRIS - ID: QRIS68025E66
+Status Pemesanan : Pending
+=============================
+
+========== INVOICE ==========
+Transaksi ID : b539731e-f43d-4753-a005-6b1b8bcc905c
+Customer     : dom
+Waktu        : 2025-11-23 18:17:52
+
+ID        Nama Barang                  Harga    Qty      Subtotal
+-----------------------------------------------------------------
+1         Iphone                  1000000,00      1    1000000,00
+-----------------------------------------------------------------
+TOTAL:                                             1000000,00
+
+Metode Pembayaran: QRIS - ID: QRIS558C7CCA
+Status Pemesanan : Pending
+=============================
+
+========== INVOICE ==========
+Transaksi ID : 4406d0ba-a8f8-449c-9ddc-725df0292d47
+Customer     : dom
+Waktu        : 2025-11-24 11:58:31
+
+ID        Nama Barang                  Harga    Qty      Subtotal
+-----------------------------------------------------------------
+1         Iphone                  1000000,00      1    1000000,00
+-----------------------------------------------------------------
+TOTAL:                                             1000000,00
+
+Metode Pembayaran: QRIS - ID: QRIS3E1468D6
+Status Pemesanan : Approved
+=============================
+
 
