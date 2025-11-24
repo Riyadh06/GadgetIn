@@ -554,20 +554,9 @@ Semua data disimpan dalam format plain text terpisah:
 - Setiap file memiliki format konsisten (delimiter: `|` atau `;`)
 - Backup mudah dilakukan dengan copy-paste file
 
-### **Future Improvements**
-1. Migrasi ke database SQL (MySQL/PostgreSQL)
-2. GUI dengan JavaFX atau Swing
-3. Fitur Rating & Review untuk barang
-4. Sistem diskon dan promo kode
-5. Email notification untuk order confirmation
-6. Real-time inventory tracking
-7. Payment gateway integration (real QRIS, Bank API)
-
----
-
 ## 👥 Tim Pengembang
 **Nama**:  Pembantai UAS Praktikum PBO 
-## 👥 Anggota Kelompok 5
+## 👥 Anggota Kelompok 9
 1. Andre Alfaridzi-2408107010011
 2. Muhammad Riyadh-2408107010015
 3. Yogi Wanda Putra-2408107010056
