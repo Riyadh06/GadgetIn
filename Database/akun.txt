@@ -1,1 +1,3 @@
-
+admin,A1,admin,admin123
+customer,C1,customer,customer123
+customer,C2,dom,123
