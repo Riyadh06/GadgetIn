@@ -566,8 +566,11 @@ Semua data disimpan dalam format plain text terpisah:
 ---
 
 ## 👥 Tim Pengembang
-**Nama**: Praktikum PBO - Semester 3
-**Institusi**: Universitas
+**Nama**:  Pembantai UAS Praktikum PBO 
+**Anggota**: 1. Andre Alfaridzi   2408107010011
+             2. Muhammad Riyadh   2408107010015
+             3. Yogi Wanda Putra  2408107010056
+**Institusi**: Universitas Syiah Kuala
 **Tahun**: 2025
 
 ---
@@ -581,6 +584,3 @@ Proyek ini adalah bagian dari praktikum kuliah dan bersifat akademis.
 Untuk pertanyaan atau issue, hubungi dosen pembimbing praktikum PBO.
 
 ---
-
-**Last Updated**: November 24, 2025
-**Version**: 1.0
